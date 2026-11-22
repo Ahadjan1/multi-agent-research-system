@@ -2,6 +2,8 @@
 
 Give it a topic and four specialized components work in sequence to produce a sourced research report: a **search agent**, a **reader agent**, a **writer chain**, and a **critic chain**. A Streamlit dashboard shows each step live.
 
+**🔗 Live Demo:** [apna-app-link.streamlit.app](https://apna-app-link.streamlit.app/)
+
 ---
 
 ## ✨ Features
